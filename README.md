@@ -14,7 +14,6 @@
 - [Table of Contents](#table-of-contents)
 - [Server](#server)
   - [Communities & Subreddits](#communities-&-subreddits)
-    - [German communities](#german-communities)
   - [Frameworks, Languages & Libraries](#frameworks-languages-&-libraries)
   - [Component Libraries & Styling](#component-libraries-&-styling)
   - [Tooling](#tooling)
@@ -186,6 +185,4 @@
 - if `widget disabled` shows up, please use `[![join]](https://discord.gg/INVITE_HERE)` instead
 - if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
 
-## Credits
-
-Flags provided by [Twemoji](https://twemoji.twitter.com/) under CC-BY 4.0.
+## Credits [Mosahel01](https://github.com/mosahel01) 
